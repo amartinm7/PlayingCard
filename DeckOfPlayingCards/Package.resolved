@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FisherYates",
+        "repositoryURL": "/home/antoniomm/Workspace/courses/swift/PlayingCard/FisherYates",
+        "state": {
+          "branch": "master",
+          "revision": "6edcff490ca4059b6a0d52a5180095aac613a41d",
+          "version": null
+        }
+      },
+      {
+        "package": "PlayingCard",
+        "repositoryURL": "/home/antoniomm/Workspace/courses/swift/PlayingCard/PlayingCard",
+        "state": {
+          "branch": "master",
+          "revision": "8b8e14a7e12fb4ac37e46e177c2048d673d6706e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

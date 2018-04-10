@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DeckOfPlayingCards",
+        "repositoryURL": "/home/antoniomm/Workspace/courses/swift/PlayingCard/DeckOfPlayingCards",
+        "state": {
+          "branch": "master",
+          "revision": "71c12adcfe6983d1ff95a3b388c30613a58d8b2e",
+          "version": null
+        }
+      },
+      {
+        "package": "FisherYates",
+        "repositoryURL": "/home/antoniomm/Workspace/courses/swift/PlayingCard/FisherYates",
+        "state": {
+          "branch": "master",
+          "revision": "5a981ed7650a7263ed232ac1da7d3be8759a8624",
+          "version": null
+        }
+      },
+      {
+        "package": "PlayingCard",
+        "repositoryURL": "/home/antoniomm/Workspace/courses/swift/PlayingCard/PlayingCard",
+        "state": {
+          "branch": "master",
+          "revision": "a6f1264c2551a6db68547f22b80c16e25db509d3",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
